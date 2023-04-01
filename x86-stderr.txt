@@ -1,0 +1,19 @@
+argv = ['libubt'; '--vfs-kind'; 'guest-first'; '--path-prefix'; '/data/user/0/com.eltechs.ed/files/image'; '--vpaths-list'; '/data/user/0/com.eltechs.ed/files/image/.exagear/vpaths-list'; '-f'; '/opt/recipe/run/simple.sh'; '--fork-controller'; 'ua:.exagear-tracker-app12'; '--ipc-emul-server'; 'ua:com.eltechs.ed'; '--tmp-dir'; '/data/user/0/com.eltechs.ed/files/image/.exagear/tmp'; '--vfs-hacks=tlsasws,tsi,spd,'; '--socket-path-suffix'; 'ed'; '--ubt-executable'; '/data/app/com.eltechs.ed-1zkz481LSG-Zy84Mch36cQ==/lib/arm/libubt.so'; '--ubt-loader'; '/data/app/com.eltechs.ed-1zkz481LSG-Zy84Mch36cQ==/lib/arm/libelfloader.so'; '--'; '/opt/recipe/run/simple.sh'; 'eval "wine explorer /desktop=shell,1280x720 /opt/exec_wrapper.exe /opt/TFM.exe D:/"'; ]
+envp = ['HOME=/home/xdroid/'; 'WINEPREFIX=/home/xdroid/.wine'; 'LC_ALL=en_US.utf8'; 'DISPLAY=:12'; 'AXS_SOUND_SERVER_PORT=/tmp/.sound/AS12'; 'AXS_DSOUND_SERVER_PORT=/tmp/.sound/DS12'; ]
+cwd = '/storage/emulated/0/Download'
+2022/06/17 04:09:10 Listening on 2200...
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+0050:err:ole:start_rpcss Failed to start RpcSs service
+00b4:err:plugplay:deviceloop_thread Can't init SDL: Could not initialize UDEV
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
+Xlib:  extension "SHAPE" missing on display ":12".
